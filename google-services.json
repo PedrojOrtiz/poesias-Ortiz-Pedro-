@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "708097097495",
+    "firebase_url": "https://poesias-ortiz-pedro.firebaseio.com",
+    "project_id": "poesias-ortiz-pedro",
+    "storage_bucket": "poesias-ortiz-pedro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708097097495:android:e802aac58ff829ed360152",
+        "android_client_info": {
+          "package_name": "ec.edu.ups"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708097097495-3ai3vrbodr084v758nue8uo7f0qfioqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvjQSCKy6AErMK3BOnpsg3Qc2dxHr_UoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708097097495-3ai3vrbodr084v758nue8uo7f0qfioqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
